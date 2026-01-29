@@ -1,9 +1,9 @@
-Calculator-js
+# Calculator
 
-Short description: This calculator functions like your regular everyday calculator.
+This calculator functions like your regular everyday calculator.
 
 
-Features
+## Features
 
 Additon/subtraction: Will add and subtract any two numbers of any length
 
@@ -12,19 +12,19 @@ Mulitply/divide: Will multiply and divide any two numbers and provide a decimal 
 Clear: When requested, result will be cleared.
 
 
-Tech
+## Tech
 
 JavaScript, HTML, CSS
 
 
-How to run
+## How to run
 
 Step 1: Open base.html
 step 2: Run live server
 Step 3: Begin performing math
 
 
-What I learned
+## What I learned
 
 1. In some cases, due to size of the viewport, it makes more sense to make the size of something pixel related vs viewport related.
 2. You need a class for anything that you want to style differently than other things. For example the "equal" button is styled similarly to the numbers but just slightly different due to the height of it. Therefore it needs its own class.
