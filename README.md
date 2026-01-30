@@ -31,4 +31,4 @@ Step 3: Begin performing math
 
 1. In some cases, due to size of the viewport, it makes more sense to make the size of something pixel related vs viewport related.
 2. You need a class for anything that you want to style differently than other things. For example the "equal" button is styled similarly to the numbers but just slightly different due to the height of it. Therefore it needs its own class.
-3. It is easier than it looks to mess things up within the css style sheet and html document. A simple typo within either one will throw all sorts of things out of wack, so attention to detail is key.
+3. It is easier than it looks to mess things up within the css style sheet and html document. Even a small typo can throw things out of whack—attention to detail is key.
