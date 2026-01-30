@@ -8,7 +8,7 @@ This calculator functions like your regular everyday calculator.
 
 ## Features
 
-Additon/subtraction: Will add and subtract any two numbers of any length
+Add/subtract: Will add and subtract any two numbers of any length
 
 Mulitply/divide: Will multiply and divide any two numbers and provide a decimal value as well
 
