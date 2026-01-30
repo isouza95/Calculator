@@ -19,7 +19,7 @@ JavaScript, HTML, CSS
 
 ## How to run
 
-Step 1: Open base.html
+Step 1: Open index.html
 step 2: Run live server
 Step 3: Begin performing math
 
